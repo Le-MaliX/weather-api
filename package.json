@@ -10,6 +10,10 @@
     "test-watch": "jest --watchAll",
     "test-cover": "jest --coverage"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Le-MaliX/weather-api.git"
+  },
   "author": "Daniel Chi",
   "license": "ISC",
   "dependencies": {
